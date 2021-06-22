@@ -1,0 +1,345 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employeeName": "Tiger Nixon",
+      "password": "1234asD!",
+      "email": "tiger.nixon@cognitensor.com",
+      "department": "Sales & Marketing",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 320800,
+      "employeeAge": 61,
+      "authorized": true,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "employeeName": "Garrett Winters",
+      "password": "1234asD!",
+      "email": "garrett.winters@cognitensor.com",
+      "department": "Sales & Marketing",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 170750,
+      "employeeAge": 63,
+      "authorized": true,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 3,
+      "employeeName": "Ashton Cox",
+      "password": "1234asD!",
+      "email": "ashton.cox@cognitensor.com",
+      "department": "Sales & Marketing",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 86000,
+      "employeeAge": 66,
+      "authorized": true,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 4,
+      "employeeName": "Cedric Kelly",
+      "password": "1234asD!",
+      "email": "cedric.kelly@cognitensor.com",
+      "department": "Sales & Marketing",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 433060,
+      "employeeAge": 22,
+      "authorized": true,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 5,
+      "employeeName": "Airi Satou",
+      "password": "1234asD!",
+      "email": "airi.satou@cognitensor.com",
+      "department": "Sales & Marketing",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 162700,
+      "employeeAge": 33,
+      "authorized": true,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 6,
+      "employeeName": "Brielle Williamson",
+      "password": "1234asD!",
+      "email": "brielle.williamson@cognitensor.com",
+      "department": "Development",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 372000,
+      "employeeAge": 61,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 7,
+      "employeeName": "Herrod Chandler",
+      "password": "1234asD!",
+      "email": "herrod.chandler@cognitensor.com",
+      "department": "Development",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 137500,
+      "employeeAge": 59,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 8,
+      "employeeName": "Rhona Davidson",
+      "password": "1234asD!",
+      "email": "rhona.davidson@cognitensor.com",
+      "department": "Development",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 327900,
+      "employeeAge": 55,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 9,
+      "employeeName": "Colleen Hurst",
+      "password": "1234asD!",
+      "email": "colleen.hurst@cognitensor.com",
+      "department": "Development",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 205500,
+      "employeeAge": 39,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 10,
+      "employeeName": "Sonya Frost",
+      "password": "1234asD!",
+      "email": "sonya.frost@cognitensor.com",
+      "department": "Development",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 103600,
+      "employeeAge": 23,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 11,
+      "employeeName": "Jena Gaines",
+      "password": "1234asD!",
+      "email": "jena.gaines@cognitensor.com",
+      "department": "Test Team",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 90560,
+      "employeeAge": 30,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 12,
+      "employeeName": "Quinn Flynn",
+      "password": "1234asD!",
+      "email": "quinn.flynn@cognitensor.com",
+      "department": "Test Team",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 342000,
+      "employeeAge": 22,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 13,
+      "employeeName": "Charde Marshall",
+      "password": "1234asD!",
+      "email": "charde.marshall@cognitensor.com",
+      "department": "Test Team",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 470600,
+      "employeeAge": 36,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 14,
+      "employeeName": "Haley Kennedy",
+      "password": "1234asD!",
+      "email": "haley.kennedy@cognitensor.com",
+      "department": "Test Team",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 313500,
+      "employeeAge": 43,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 15,
+      "employeeName": "Tatyana Fitzpatrick",
+      "password": "1234asD!",
+      "email": "tatyana.fitzpatrick@cognitensor.com",
+      "department": "Architecture",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 385750,
+      "employeeAge": 19,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 16,
+      "employeeName": "Michael Silva",
+      "password": "1234asD!",
+      "email": "michael.silva@cognitensor.com",
+      "department": "Architecture",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 198500,
+      "employeeAge": 66,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 17,
+      "employeeName": "Paul Byrd",
+      "password": "1234asD!",
+      "email": "paul.byrd@cognitensor.com",
+      "department": "Architecture",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 725000,
+      "employeeAge": 64,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 18,
+      "employeeName": "Gloria Little",
+      "password": "1234asD!",
+      "email": "gloria.little@cognitensor.com",
+      "department": "Architecture",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 237500,
+      "employeeAge": 59,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 19,
+      "employeeName": "Bradley Greer",
+      "password": "1234asD!",
+      "email": "bradley.greer@cognitensor.com",
+      "department": "Operations",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 132000,
+      "employeeAge": 41,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 20,
+      "employeeName": "Dai Rios",
+      "password": "1234asD!",
+      "email": "dai.rios@cognitensor.com",
+      "department": "Operations",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 217500,
+      "employeeAge": 35,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 21,
+      "employeeName": "Jenette Caldwell",
+      "password": "1234asD!",
+      "email": "jenette.caldwell@cognitensor.com",
+      "department": "Operations",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 345000,
+      "employeeAge": 30,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 22,
+      "employeeName": "Yuri Berry",
+      "password": "1234asD!",
+      "email": "yuri.berry@cognitensor.com",
+      "department": "Customer Support",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 675000,
+      "employeeAge": 40,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 23,
+      "employeeName": "Caesar Vance",
+      "password": "1234asD!",
+      "email": "caesar.vance@cognitensor.com",
+      "department": "Primary Roles",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 106450,
+      "employeeAge": 21,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    },
+    {
+      "id": 24,
+      "employeeName": "Doris Wilder",
+      "password": "1234asD!",
+      "email": "doris.wilder@cognitensor.com",
+      "department": "Channels of Communication",
+      "phoneNumbers": "+919769237899",
+      "employeeSalary": 85600,
+      "employeeAge": 23,
+      "photographs": [
+        "https://i.pinimg.com/originals/73/16/f5/7316f550de9ca0045e3d8d98a5bb5e44.png",
+        "https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg"
+      ]
+    }
+  ]
+}
