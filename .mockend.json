@@ -5,7 +5,7 @@
     "email": "string",
     "department": "string",
     "phoneNumbers": "string",
-    "photographs": "string[]",
+    "photographs": "string",
     "employeeSalary": "int"
   }
 }
