@@ -1,5 +1,5 @@
 {
-  "Employees": {
+  "Employee": {
     "id": "int",
     "employeeName": "string",
     "email": "string",
